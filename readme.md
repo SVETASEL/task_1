@@ -7,9 +7,9 @@
 
 ## Содержание
 1. Команда [*git add .*](add.md)
-2. 
-3.
-4.
+2. Команда [*git init*](init.md)
+3. Команда [*git status*](status.md)
+4. Команда [*git log*](log.md)
 
 
 ---
